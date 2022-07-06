@@ -28,10 +28,6 @@ Phase 1 will allow users to loging and create a torunament with up to 8 teams ea
 
 ## Design
 
-### Database Design
-
 ### User Interface Drawings
-
-### Architecture Drawings
 
 ### User Story
