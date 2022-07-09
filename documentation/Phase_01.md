@@ -2,7 +2,7 @@
 
 ## Scope
 
-Phase 1 will allow users to loging and create a torunament with up to 8 teams each consisting of up to two people per team. The tournament, teams and players will be unique to each user's account and cannot be accessed by any other user. The tournament format will be a single elemination tournament, each round will have its own page to view who plays who. For each game the scores can be recorded including what team won and how many cups each player hit. The scores will be displayed on a leaderboard showing what player has the most cups. The final stats will all be combined onto a results page to display the final tournament results and the cup leaderboard. The backend will use FastAPI and the frontend will use htmlx.
+Phase 1 will allow users to login and create a tournament with up to 8 teams each consisting of up to two people per team. The tournament, teams and players will be unique to each user's account and cannot be accessed by any other user. The tournament format will be a single elimination tournament, each round will have its own page to view who plays who. For each game the scores can be recorded including what team won and how many cups each player hit. The scores will be displayed on a leader board showing what player has the most cups. The final stats will all be combined onto a results page to display the final tournament results and the cup leader board.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ Phase 1 will allow users to loging and create a torunament with up to 8 teams ea
  - The user should be able to start the tournament after the teams and users have been added.
  - The user should be able to add the team and player scores for each game.
  - The user should be able to view upcoming games and the results of previous games.
- - The user should be able to see a leaderboard of what team and player has sunk the most cups.
+ - The user should be able to see a leader board of what team and player has sunk the most cups.
  - The user should be able to view the results of the tournament after it has been complete.
 
 ### Non-Functional Requirements
