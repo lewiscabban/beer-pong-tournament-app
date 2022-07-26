@@ -45,5 +45,3 @@ Phase 1 will allow users to login and create a tournament with up to 8 teams eac
 #### Results Page
 
 ![Results Page](images/results.svg)
-
-### User Story
