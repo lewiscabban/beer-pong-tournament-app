@@ -1,3 +1,4 @@
+import uvicorn
 import strawberry
 
 from typing import List
@@ -29,3 +30,12 @@ graphql_app = GraphQLRouter(schema)
 
 app = FastAPI()
 app.include_router(graphql_app, prefix="/graphql")
+
+# uvicorn.run(app, host="localhost", port=5000)
+
+
+def main():
+    print("Hello World!")
+
+if __name__ == "__main__":
+    main()
